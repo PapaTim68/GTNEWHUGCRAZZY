@@ -1,0 +1,17 @@
+{
+  "id": "aurampde_-1908,65,2983",
+  "name": "aurampde",
+  "icon": "waypoint-normal.png",
+  "x": -1908,
+  "y": 65,
+  "z": 2983,
+  "r": 163,
+  "g": 46,
+  "b": 16,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

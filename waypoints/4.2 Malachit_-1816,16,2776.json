@@ -1,0 +1,17 @@
+{
+  "id": "4.2 Malachit_-1816,16,2776",
+  "name": "4.2 Malachit",
+  "icon": "waypoint-normal.png",
+  "x": -1816,
+  "y": 16,
+  "z": 2776,
+  "r": 117,
+  "g": 47,
+  "b": 243,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
